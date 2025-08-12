@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+data/*
+!data/sample.txt
+candidates/*
+!candidates/top100k.txt
+models/*
